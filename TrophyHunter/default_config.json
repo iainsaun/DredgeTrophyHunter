@@ -1,0 +1,26 @@
+{
+    "notchchance": {
+        "type": "slider",
+        "title": "iainsaun.trophyhunter.notchchance.title",
+        "tooltip": "iainsaun.trophyhunter.notchchance.tooltip",
+        "value": 10,
+        "min": 0,
+        "max": 100
+    },
+    "baitnotchchance": {
+        "type": "slider",
+        "title": "iainsaun.trophyhunter.baitnotchchance.title",
+        "tooltip": "iainsaun.trophyhunter.baitnotchchance.tooltip",
+        "value": 40,
+        "min": 0,
+        "max": 100
+    },
+    "catchnum": {
+        "type": "slider",
+        "title": "iainsaun.trophyhunter.catchnum.title",
+        "tooltip": "iainsaun.trophyhunter.catchnum.tooltip",
+        "value": 4,
+        "min": 0,
+        "max": 5
+    }
+}

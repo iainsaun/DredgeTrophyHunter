@@ -1,0 +1,13 @@
+D:\Steam\steamapps\common\DREDGE\Mods\iainsaun.TrophyHunter\Assets\Localization\en.json
+D:\Steam\steamapps\common\DREDGE\Mods\iainsaun.TrophyHunter\default_config.json
+D:\Steam\steamapps\common\DREDGE\Mods\iainsaun.TrophyHunter\mod_meta.json
+D:\Steam\steamapps\common\DREDGE\Mods\iainsaun.TrophyHunter\TrophyHunter.dll
+D:\Steam\steamapps\common\DREDGE\Mods\iainsaun.TrophyHunter\TrophyHunter.pdb
+C:\Users\Iain\source\repos\DredgeTrophyHunter\TrophyHunter\obj\Debug\TrophyHunter.csproj.AssemblyReference.cache
+C:\Users\Iain\source\repos\DredgeTrophyHunter\TrophyHunter\obj\Debug\TrophyHunter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Iain\source\repos\DredgeTrophyHunter\TrophyHunter\obj\Debug\TrophyHunter.AssemblyInfoInputs.cache
+C:\Users\Iain\source\repos\DredgeTrophyHunter\TrophyHunter\obj\Debug\TrophyHunter.AssemblyInfo.cs
+C:\Users\Iain\source\repos\DredgeTrophyHunter\TrophyHunter\obj\Debug\TrophyHunter.csproj.CoreCompileInputs.cache
+C:\Users\Iain\source\repos\DredgeTrophyHunter\TrophyHunter\obj\Debug\TrophyHunter.sourcelink.json
+C:\Users\Iain\source\repos\DredgeTrophyHunter\TrophyHunter\obj\Debug\TrophyHunter.dll
+C:\Users\Iain\source\repos\DredgeTrophyHunter\TrophyHunter\obj\Debug\TrophyHunter.pdb

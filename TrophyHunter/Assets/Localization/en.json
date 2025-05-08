@@ -1,0 +1,8 @@
+{
+    "iainsaun.trophyhunter.notchchance.title": "Trophy Notch Chance",
+    "iainsaun.trophyhunter.notchchance.tooltip": "Likelihood that you'll get a yellow trophy notch in the fishing mini game.",
+    "iainsaun.trophyhunter.baitnotchchance.title": "Trophy Notch Chance with Bait",
+    "iainsaun.trophyhunter.baitnotchchance.tooltip": "Likelihood that you'll get a yellow trophy notch in the fishing mini game when using bait.",
+    "iainsaun.trophyhunter.catchnum.title": "Fish caught between trophies",
+    "iainsaun.trophyhunter.catchnum.tooltip": "Minimum number of fish to catch before you can catch another trophy."
+}

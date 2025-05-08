@@ -1,0 +1,9 @@
+{
+    "Author": "iainsaun",
+    "Name": "Trophy Hunter",
+    "ModGUID": "iainsaun.trophyhunter",
+    "ModAssembly": "TrophyHunter.dll",
+    "Entrypoint": "TrophyHunter.Loader/Initialize",
+    "Version": "0.1.0",
+    "MinWinchVersion": "0.6.0"
+}
